@@ -1,6 +1,6 @@
 bot_token: YOUR_BOT_TOKEN
 socks5: 
-notice: "粑屁"
+notice: "粑屁 https://t.me/BPG878"
 admin: 管理员id
 errlimit: 5
 cron: "1 */3 * * *"
