@@ -1,0 +1,8 @@
+version: '3'
+services:
+  e5bot:
+    image: yagiarisa/e5subbot-sqlite
+    volumes:
+      - /opt/e5sub/config.yml:/root/config.yml
+      - /opt/e5sub/e5sub.db:/root/e5sub.db
+    restart: always
